@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/5/27 上午11:34
 # @Author  : baby松
-# @FileName: tensflow_01.py
+# @FileName: tensorflow_01.py
 # @Software: PyCharm
 
 import tensorflow as tf
